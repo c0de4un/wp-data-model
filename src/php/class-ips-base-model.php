@@ -14,7 +14,7 @@
 // CLASS
 // = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
-abstract class IPSBaseModel implements JsonSerializable
+abstract class BaseModel implements JsonSerializable
 {
 
     // = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
